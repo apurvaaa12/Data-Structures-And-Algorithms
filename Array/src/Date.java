@@ -1,9 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Collectors;
-
 public class Date {
 
     public static void main(String[] args){
@@ -16,7 +10,11 @@ public class Date {
         String str0 = "apurva";
         String str2= new String("apurva");
         String str3= new String("apurva");
-        if(str.equals(str0)){
+        StringBuilder s=new StringBuilder("apurva");
+        StringBuilder s1=new StringBuilder("apurva");
+        StringBuffer s2=new StringBuffer("apurva");
+        StringBuffer s3=new StringBuffer("apurva");
+        if(str2==str3){
             System.out.println("Matched");
         }else{
             System.out.println("Mismatched");
@@ -31,7 +29,7 @@ public class Date {
         }
         System.out.println("Number is characters in OCcur is " +count);
 
-        
+
     }
 
 }
