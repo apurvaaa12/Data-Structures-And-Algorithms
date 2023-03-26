@@ -36,7 +36,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.SumOfIntegersInAnArray">
     <configuration name="ArrayForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayForLoop" />
       <module name="Arrays" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sumvalues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sumvalues" />
+    <configuration name="SumOfIntegersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfIntegersInAnArray" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfIntegersInAnArray" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.ArrayForLoop" />
         <item itemvalue="Application.ContainsValue" />
-        <item itemvalue="Application.Sumvalues" />
       </list>
     </recent_temporary>
   </component>
