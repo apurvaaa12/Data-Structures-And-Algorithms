@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.OptionalInt;
 
 public class SumOfIntegersInAnArray {
     public static void main(String[] args){
@@ -13,5 +14,9 @@ public class SumOfIntegersInAnArray {
         //using streams
         int result= Arrays.stream(arr).sum();
         System.out.println(result);
+
+        OptionalInt result2=Arrays.stream(arr).max();
+        System.out.println(result2);
+
     }
 }

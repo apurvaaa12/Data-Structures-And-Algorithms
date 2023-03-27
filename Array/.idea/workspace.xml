@@ -44,13 +44,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContainsValue" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date" />
       <module name="Arrays" />
@@ -60,6 +53,13 @@
     </configuration>
     <configuration name="SumOfIntegersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfIntegersInAnArray" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sumvalues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sumvalues" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,10 +75,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SumOfIntegersInAnArray" />
+        <item itemvalue="Application.Sumvalues" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.ArrayForLoop" />
-        <item itemvalue="Application.ContainsValue" />
       </list>
     </recent_temporary>
   </component>
