@@ -30,22 +30,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Apurva/Desktop/JAVA",
+    "last_opened_file_path": "C:/Users/Apurva/Desktop/RESTExpress/Demo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfIntegersInAnArray">
-    <configuration name="ArrayForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayForLoop" />
+  <component name="RunManager" selected="Application.SubString">
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date" />
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubString" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubString" />
         <item itemvalue="Application.SumOfIntegersInAnArray" />
         <item itemvalue="Application.Sumvalues" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Date" />
-        <item itemvalue="Application.ArrayForLoop" />
       </list>
     </recent_temporary>
   </component>
