@@ -11,5 +11,10 @@ public class SubString {
         String result= String.valueOf(str.charAt(0));
         result.toLowerCase();
         System.out.println(result);
-    }
+        String replace= str.replace(str.charAt(1), 'r').toUpperCase();
+        System.out.println("Replaced String " +replace );
+//        String compare= String.valueOf(str.compareTo(str2));
+//        System.out.println("" +compare);
+
+            }
 }
