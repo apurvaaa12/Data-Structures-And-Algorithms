@@ -1,3 +1,6 @@
+import java.sql.SQLOutput;
+import java.util.stream.Stream;
+
 public class Date {
 
     public static void main(String[] args){
@@ -5,6 +8,9 @@ public class Date {
 //        Map<String,Long> map= Arrays.stream(input.split(""))
 //                .collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
 //        System.out.println(map);
+
+        Stream<String> stream= Stream.of("Jello,making me a monster");
+        stream.forEach(System.out::println);
 
         String str = "apurva";
         String str0 = "apurva";

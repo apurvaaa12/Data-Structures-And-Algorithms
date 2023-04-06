@@ -26,17 +26,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Apurva/Desktop/RESTExpress/Demo",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Apurva/Desktop/RESTExpress/Demo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SubString">
+}</component>
+  <component name="RunManager" selected="Application.Date">
     <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date" />
       <module name="Arrays" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Date" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.SumOfIntegersInAnArray" />
         <item itemvalue="Application.Sumvalues" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Date" />
       </list>
     </recent_temporary>
   </component>
