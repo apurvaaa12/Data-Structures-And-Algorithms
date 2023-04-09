@@ -12,9 +12,12 @@ public class Date {
         Stream<String> stream= Stream.of("Jello,making me a monster");
         stream.forEach(System.out::println);
 
+        Stream<String> stream2= Stream.of("Jello,gets me food");
+        stream2.forEach(System.out::println);
+
         Stream<String> stream1= Stream.of("Jello,making me a monster");
         stream1.forEach(System.out::println);
-        
+
         String str = "apurva";
         String str0 = "apurva";
         String str2= new String("apurva");
