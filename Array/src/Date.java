@@ -18,6 +18,9 @@ public class Date {
         Stream<String> stream1= Stream.of("Jello,making me a monster");
         stream1.forEach(System.out::println);
 
+        Stream<String> stream0= Stream.of("My papa is the best");
+        stream0.forEach(System.out::println);
+
         String str = "apurva";
         String str0 = "apurva";
         String str2= new String("apurva");
