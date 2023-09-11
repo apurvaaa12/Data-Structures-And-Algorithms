@@ -1,5 +1,6 @@
 package Java_8_Interview_Questions;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -18,5 +19,19 @@ public class ElementsWithOneInArray {
                .filter(s->s.startsWith("2"))
                .collect(Collectors.toList());
         System.out.println(numsWithOne);
+
+
+        int[] array = {2,1,3,2,4,2,4,2,1,5,6,7};
+        //sorting an array
+        List<Integer> result= Arrays.stream(array).boxed()
+                .sorted()
+                .collect(Collectors.toList());
+        System.out.println(result);
+        //finding the unique elements in an array
+        List<Integer> uniqueElements= Arrays.stream(array).boxed()
+                .sorted()
+                .distinct()
+                .collect(Collectors.toList());
+        System.out.println(uniqueElements);
     }
 }
