@@ -9,7 +9,8 @@ public class ReverseArray {
 
         int[] arr= {1,2,5,3,4};
 
-        IntStream.range(0,arr.length/2).forEach(i->{
+        IntStream.range(0,arr.length/2)
+                .forEach(i->{
             int temp=arr[i];
             arr[i] = arr[arr.length-i-1];
             arr[arr.length-i-1] = temp;

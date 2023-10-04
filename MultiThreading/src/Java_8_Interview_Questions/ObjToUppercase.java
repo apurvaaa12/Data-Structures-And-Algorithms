@@ -1,6 +1,5 @@
 package Java_8_Interview_Questions;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.List;
 

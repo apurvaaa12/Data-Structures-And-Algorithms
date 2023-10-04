@@ -2,6 +2,7 @@ package Java_8_Interview_Questions;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class ConcatList {
@@ -15,5 +16,11 @@ public class ConcatList {
 
         List<Integer> merged = Stream.concat(list1.stream(),list2.stream()).sorted().toList();
         System.out.println("Merged List : " + merged);
+
+
+        int [] nums = {1,2,3,4};
+        Stream<Integer> result = Stream.concat(Arrays.stream(nums).boxed(), Arrays.stream(nums).boxed()).sorted();
+
+        System.out.println(result.toList());
     }
 }
